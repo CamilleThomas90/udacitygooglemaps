@@ -3,11 +3,11 @@
   <head>   
     <style>
       html,
-      body {
-      font-family: Arial, sans-serif;
-      height: 100%;
-      margin: 0;
-      padding: 0;
+      body {  
+        font-family: Arial, sans-serif;
+        height: 100%;
+        margin: 0;
+        padding: 0;
       }
     
       #map {      
